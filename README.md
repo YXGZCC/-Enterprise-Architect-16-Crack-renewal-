@@ -16,16 +16,16 @@
 
 ## 安装使用
 
-###安装方法1（直接使用）
-1.下载Releases中已打包好的程序
-2.关闭Enterprise Architect 16主程序
-3.打开EA.1.0-by.exe
-4.一路点击确定即可。
-![image](https://github.com/YXGZCC/-Enterprise-Architect-16-Crack-renewal-/assets/126076094/49688d80-04e9-4dcc-90a1-1f6193b22c25)
+**安装方法1（直接使用）**
+1.下载Releases中已打包好的程序  
+2.关闭Enterprise Architect 16主程序  
+3.打开EA.1.0-by.exe  
+4.一路点击确定即可。  
+![image](https://github.com/YXGZCC/-Enterprise-Architect-16-Crack-renewal-/assets/126076094/49688d80-04e9-4dcc-90a1-1f6193b22c25)  
 5.打开Enterprise Architect 16主程序，选择终极版，继续试用即可。
 
 
-###安装方法2（用于二次开发）
+**安装方法2（用于二次开发）**
 1. 克隆此仓库到本地
    ```
    https://github.com/YXGZCC/-Enterprise-Architect-16-Crack-renewal-.git
@@ -41,7 +41,7 @@
 
 ## 许可证
 
-这个项目是CC BY-NC-SA 4.0。这个许可证允许所有人对此作品进行复制、分发、展示和演绎，但不允许用于商业目的。任何基于此作品的新创作都必须以相同的许可证发布。
+这个项目是 GNU GENERAL PUBLIC LICENSE。GNU General Public License (GPL) 是一个广泛使用的自由软件许可证，它保证了终端用户（个人、组织、公司）可以运行、研究、共享（复制）和修改软件。GPL是一个“copyleft”许可证，这意味着派生的作品也必须在GPL下分发，保持原作者的自由使用、修改和共享的权利。
 
 ## 免责声明
 
