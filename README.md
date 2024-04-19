@@ -18,7 +18,7 @@ B站视频（）：https://www.bilibili.com/video/BV1Qx421U7VW/
 ## 安装使用
 
 **安装方法1（直接使用）**
-1.下载Releases中已打包好的程序或从国内网盘中下载：https://yxgz.lanzouq.com/iSr3Q1rtpjob（仅含脚本程序）  或https://www.123pan.com/s/Xlpujv-kv0gh.html （此网盘含EA软件本体安装包及脚本程序）
+1.下载Releases中已打包好的程序或从国内网盘中下载：https://yxgz.lanzouq.com/iSr3Q1rtpjob （仅含脚本程序）  或https://www.123pan.com/s/Xlpujv-kv0gh.html （此网盘含EA软件本体安装包及脚本程序）
 2.关闭Enterprise Architect 16主程序  
 3.打开EA.1.0-by.exe  
 4.一路点击确定即可。  
