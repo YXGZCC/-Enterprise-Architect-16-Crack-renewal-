@@ -3,6 +3,7 @@
 ## 介绍
 
 这个项目是一个破解最新版的Enterprise Architect 16。Enterprise Architect是一个全面的UML分析和设计工具，用于系统、软件和业务建模。16.1版本有官方中文。请注意，这个破解版的项目是为了教育和研究目的，不应用于商业用途。我们强烈建议您购买正版软件来支持开发者。
+B站视频（）：https://www.bilibili.com/video/BV1Qx421U7VW/
 
 ## 特性
 
@@ -17,7 +18,7 @@
 ## 安装使用
 
 **安装方法1（直接使用）**
-1.下载Releases中已打包好的程序  
+1.下载Releases中已打包好的程序或从国内网盘中下载：https://yxgz.lanzouq.com/iSr3Q1rtpjob（仅含脚本程序）  或https://www.123pan.com/s/Xlpujv-kv0gh.html （此网盘含EA软件本体安装包及脚本程序）
 2.关闭Enterprise Architect 16主程序  
 3.打开EA.1.0-by.exe  
 4.一路点击确定即可。  
