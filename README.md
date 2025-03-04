@@ -20,12 +20,13 @@ B站视频（含脚本使用方法，手动实现破解演示）：https://www.b
 ## 安装使用
 
 **安装方法1（直接使用）**
-1.下载Releases中已打包好的程序或从国内网盘中下载：https://yxgz.lanzouq.com/iSr3Q1rtpjob （仅含脚本程序）  或https://www.123pan.com/s/Xlpujv-kv0gh.html （此网盘含EA软件本体安装包及脚本程序）
+1.下载Releases中已打包好的程序或从国内网盘中下载：https://yxgz.lanzouq.com/iLaYJ2pkna3e 密码:6666 （仅含脚本程序）  或https://www.123pan.com/s/Xlpujv-kv0gh.html （此网盘含EA软件本体安装包及脚本程序）
 2.关闭Enterprise Architect 16主程序  
-3.打开EA.1.0-by.exe  
-4.一路点击确定即可。  
-![image](https://github.com/YXGZCC/-Enterprise-Architect-16-Crack-renewal-/assets/126076094/49688d80-04e9-4dcc-90a1-1f6193b22c25)  
-5.打开Enterprise Architect 16主程序，选择终极版，继续试用即可。
+3.打开脚本程序  
+4.选择适合自己的EA版本，点击按钮重置即可。  
+![image](https://github.com/user-attachments/assets/762d8e28-d88e-4c21-b439-da798c121623)
+
+5.打开Enterprise Architect 主程序，选择终极版，即可继续试用。
 
 
 **安装方法2（用于二次开发）**
@@ -36,8 +37,7 @@ B站视频（含脚本使用方法，手动实现破解演示）：https://www.b
 2. 在下载的项目文件夹中对ea.cpp进行二次修改
 
 ## 已知问题
-1.如果当前系统用户名为中文，则会导致用户名获取失败，从而导致key文件删除失败。（正在研究，如果有大佬会请指点指点）（宽文本类型貌似支持中文，但是貌似一改，整个代码都得改成这种）
-2.试用版导出图会带有 试用水印。（无解，不过上课学习够用）
+1.试用版导出图会带有 试用水印。（没思路，不过上课学习够用）
 
 
 ## 贡献
